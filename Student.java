@@ -14,6 +14,5 @@ Student(Student student){
 }
 public static void main (String args[]){
     Student student1 = new Student("arshad",20);
-    Student student2 = new Student(student1);
 }
 }
